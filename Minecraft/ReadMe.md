@@ -8,4 +8,4 @@
 *Coming soon...*
 
 ## Support
-*Coming soon...*
+* [Links](https://github.com/DemirK2/DemirK2-Mods#support)
